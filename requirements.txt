@@ -1,0 +1,22 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+
+# Pydantic
+pydantic>=2.9.2
+pydantic-settings>=2.6.1
+
+# Database
+supabase
+postgrest
+
+# AI and ML
+openai
+langchain
+langchain-openai
+langchain-community
+
+# Utilities
+tenacity
+faiss-cpu
